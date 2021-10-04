@@ -1,13 +1,13 @@
 
 import './App.css';
-import john from './john.jpg';
+
 
 function App() {
   
   return (
     <div className="App">
       <header className="App-header">
-        <img src={} alt="logo" />
+        <h1>NCP MADE ME TAKE IT DOWN</h1>
         
       </header>
     </div>
